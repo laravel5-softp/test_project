@@ -1,15 +1,15 @@
 ## About the Project
 
 A testing project which relates to example transactional data.
-Using resousr route to show, search, update and store record.
+Using resourse route to show, search, update and store record.
 
 ## Files to look at
 
-TransactionController.php
-TransactionService.php
-TransactionStoreRequest.php
-Transaction.php
-helpers.php
+TransactionController.php <br>
+TransactionService.php <br>
+TransactionStoreRequest.php <br>
+Transaction.php <br>
+helpers.php <br>
 
 ## About Me (Zeshan Tariq)
 
